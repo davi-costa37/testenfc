@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family:Arial, sans-serif;
+    background:#f4f4f4;
+}
+
+.container{
+    background:white;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,.1);
+    text-align:center;
+}
+
+h1{
+    margin-bottom:20px;
+}
+
+h2{
+    color:#333;
+    margin-bottom:15px;
+}
+
+p{
+    font-size:18px;
+    font-weight:bold;
+}
