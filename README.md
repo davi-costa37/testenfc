@@ -27,6 +27,8 @@ funcionarios (coleção)
                     ├── data: "DD/MM/AAAA"
                     ├── hora: "HH:MM:SS"
                     └── tipo: "entrada" ou "saida"
+                    
+obs: sem o id não tem como fazer nada no site.
 
 📄 Licença
 Este projeto está sob a licença MIT.
